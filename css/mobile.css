@@ -50,7 +50,7 @@ button#hamburgerBtn {
 
   .hero {
       overflow: auto;
-      background-image: url("/images/banner.jpeg");
+      background-image: url("./images/banner.jpeg");
       background-position: top;
       background-repeat: no-repeat;
       background-size: cover;
@@ -245,7 +245,7 @@ button#hamburgerBtn {
 
  .background-div{
     max-width: 50%;
-    background-image: url("/images/subscribe.jpeg");
+    background-image: url("./images/subscribe.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
